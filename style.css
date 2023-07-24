@@ -45,3 +45,11 @@ body {
 .play-board .food {
     background-color: green;
 }
+
+.play-board .head {
+    background-color: #89CFF0;
+}
+
+.container {
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
